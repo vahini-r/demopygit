@@ -9,3 +9,4 @@ class Rectangle():
 rect=Rectangle(13,7)
 print(rect.calc_area())
 print(rect.calc_peri())
+print("hi")
